@@ -1,110 +1,115 @@
-<!-- HERO SECTION -->
-<h1 align="center">Hi, I'm Adan León 👋</h1>
+<!-- HERO -->
+
+<h1 align="center">
+  🎨✨ Adan León ✨🎨
+</h1>
 
 <h3 align="center">
-Frontend Developer & UI/UX Designer in Progress 🚀 <br/>
-Software Engineering Student
+  Frontend Developer • UI/UX Designer • Software Engineering Student
 </h3>
 
 <p align="center">
-Santo Domingo, Dominican Republic 🇩🇴 <br/>
-Available for Freelance & Full-Time Opportunities
+  📍 Santo Domingo, Dominican Republic 🇩🇴 <br/>
+  🚀 Available for Freelance & Full-Time Opportunities
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Designing+Modern+Interfaces;Building+Interactive+Experiences;Turning+Ideas+into+Premium+UI;Frontend+with+Purpose" />
+</p>
 
-<!-- ABOUT ME -->
-<h2 align="center">💡 About Me</h2>
+---
 
-<p align="center" width="700">
-I’m a Software Engineering student specialized in Frontend Development and UI/UX Design. 
-What differentiates me is my ability to combine structured engineering thinking with strong visual design principles. 
-I enjoy building clean, modern and interactive user interfaces that feel intuitive and purposeful.
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center" width="750">
+I'm a Software Engineering student passionate about building clean, modern and visually engaging digital experiences. 
+What makes me different is the balance between engineering structure and UI creativity. 
+I don’t just write code — I design experiences.
 <br/><br/>
-Currently focused on mastering Next.js, TypeScript and advanced UI architecture. 
-I’m passionate about motion, micro-interactions and creating digital experiences that not only work — but feel premium.
+Currently mastering <b>Next.js</b>, <b>TypeScript</b> and advanced frontend architecture. 
+Obsessed with smooth animations, micro-interactions and pixel-perfect layouts.
 </p>
 
-<br/>
+---
 
-<!-- TECH STACK -->
-<h2 align="center">🛠 Tech Stack</h2>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-HTML • CSS • JavaScript • React • Vite • TypeScript • Next.js
-</p>
-
-<h3 align="center">UI & Motion</h3>
-<p align="center">
-Tailwind CSS • Framer Motion • Figma • Balsamiq
-</p>
-
-<h3 align="center">Backend & Databases</h3>
-<p align="center">
-.NET • Dart • Flutter <br/>
-Firebase • MySQL • SQL Server • Supabase
-</p>
-
-<h3 align="center">Other Languages</h3>
-<p align="center">
-C# • C++ • Python • Dart
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-Git • GitHub • Freepik
-</p>
-
-<br/>
-
-<!-- FUTURE PROJECTS SECTION -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Tech Arsenal</h2>
 
 <p align="center">
-Coming Soon...
-</p>
 
-<p align="center">
-I’m currently building high-quality, production-ready projects focused on:
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
 <br/><br/>
-• Modern UI Systems <br/>
-• Interactive Web Applications <br/>
-• Clean Architecture Frontend Projects <br/>
-• Full-Stack Applications with Next.js & .NET
+
+<!-- UI & Motion -->
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
 </p>
 
-<br/>
+---
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adanrleon&show_icons=true&theme=tokyonight" />
-</p>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adanrleon&layout=compact&theme=tokyonight" />
-</p>
-
-<br/>
-
-<!-- CONTACT -->
-<h2 align="center">📫 Let's Connect</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/adan-leon/">
-LinkedIn
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-📧 Email: adanrleon05@gmail.com <br/>
-📱 Phone: +1 (829) 376-6606
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+⚡ Advanced Next.js Architecture <br/>
+🎨 Design Systems & Scalable UI <br/>
+✨ Motion-Driven Interfaces <br/>
+🧱 Clean Code & Maintainable Projects
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adan-leon/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adan_León-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+📧 adanrleon05@gmail.com <br/>
+📱 +1 (829) 376-6606
+</p>
+
+---
+
+<h3 align="center">
+💜 “Design is not decoration. It's how it works.”
+</h3>
 <!-- CTA -->
 <h3 align="center">
 Open to collaboration, internships and professional opportunities.
