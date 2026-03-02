@@ -15,8 +15,9 @@
   🚀 Available for Freelance & Full-Time Opportunities
 </p>
 
+<!-- 🔴 SLOGAN EN ROJO VINO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Designing+Modern+Interfaces;Building+Interactive+Experiences;UI%2FUX+Focused+Frontend+Developer;Turning+Ideas+into+Premium+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8B1E3F&center=true&vCenter=true&width=650&lines=Designing+Modern+Interfaces;Building+Interactive+Experiences;UI%2FUX+Focused+Frontend+Developer;Turning+Ideas+into+Premium+Digital+Experiences" />
 </p>
 
 ---
@@ -146,8 +147,9 @@ Currently focused on mastering <b>Next.js</b>, <b>TypeScript</b> and scalable fr
 <br/>
 <br/>
 
+<!-- 🔥 FOOTER CON DEGRADADO DE ROJOS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A0F24,50:8B1E3F,100:B1123A&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=40&fontColor=ffffff" />
 </p>
 
 <h3 align="center">
