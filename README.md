@@ -1,7 +1,9 @@
-<!-- HERO -->
+<!-- ======================= -->
+<!--        HERO SECTION     -->
+<!-- ======================= -->
 
 <h1 align="center">
-  🎨✨ Adan León ✨🎨
+   Adan León 
 </h1>
 
 <h3 align="center">
@@ -14,27 +16,32 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Designing+Modern+Interfaces;Building+Interactive+Experiences;Turning+Ideas+into+Premium+UI;Frontend+with+Purpose" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Designing+Modern+Interfaces;Building+Interactive+Experiences;UI%2FUX+Focused+Frontend+Developer;Turning+Ideas+into+Premium+Digital+Experiences" />
 </p>
 
 ---
+
+<!-- ======================= -->
+<!--        ABOUT ME         -->
+<!-- ======================= -->
 
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center" width="750">
-I'm a Software Engineering student passionate about building clean, modern and visually engaging digital experiences. 
-What makes me different is the balance between engineering structure and UI creativity. 
-I don’t just write code — I design experiences.
+I'm a Software Engineering student passionate about crafting visually engaging and highly functional web experiences.
+What differentiates me is the balance between structured engineering thinking and strong UI/UX design foundations.
 <br/><br/>
-Currently mastering <b>Next.js</b>, <b>TypeScript</b> and advanced frontend architecture. 
-Obsessed with smooth animations, micro-interactions and pixel-perfect layouts.
+I enjoy building clean architectures, interactive interfaces and motion-driven experiences that feel premium and intentional.
+Currently focused on mastering <b>Next.js</b>, <b>TypeScript</b> and scalable frontend systems.
 </p>
 
 ---
 
-<h2 align="center">🚀 Tech Arsenal</h2>
+<!-- ======================= -->
+<!--      TECH ARSENAL       -->
+<!-- ======================= -->
 
----
+<h2 align="center">🚀 Tech Arsenal</h2>
 
 <h3 align="center">🎨 Frontend Development</h3>
 
@@ -48,7 +55,7 @@ Obsessed with smooth animations, micro-interactions and pixel-perfect layouts.
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
 ---
@@ -84,32 +91,38 @@ Obsessed with smooth animations, micro-interactions and pixel-perfect layouts.
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
+---
+
+<!-- ======================= -->
+<!--      GITHUB STATS       -->
+<!-- ======================= -->
+
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=adanrleon&theme=radical&hide_border=true" />
 </p>
 
 ---
+
+<!-- ======================= -->
+<!--       CURRENT FOCUS     -->
+<!-- ======================= -->
 
 <h2 align="center">🎯 Current Focus</h2>
 
 <p align="center">
 ⚡ Advanced Next.js Architecture <br/>
-🎨 Design Systems & Scalable UI <br/>
-✨ Motion-Driven Interfaces <br/>
-🧱 Clean Code & Maintainable Projects
+🎨 Scalable Design Systems <br/>
+✨ Motion-Driven UI with Framer Motion <br/>
+🧱 Clean & Maintainable Frontend Code
 </p>
 
 ---
+
+<!-- ======================= -->
+<!--        CONTACT          -->
+<!-- ======================= -->
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -126,14 +139,17 @@ Obsessed with smooth animations, micro-interactions and pixel-perfect layouts.
 
 ---
 
-<h3 align="center">
-💜 “Design is not decoration. It's how it works.”
-</h3>
-<!-- CTA -->
-<h3 align="center">
-Open to collaboration, internships and professional opportunities.
-</h3>
+<!-- ======================= -->
+<!--         FOOTER          -->
+<!-- ======================= -->
+
+<br/>
+<br/>
 
 <p align="center">
-Let’s build something impactful.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9FF&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=40&fontColor=ffffff" />
 </p>
+
+<h3 align="center">
+  Designed & Built by Adan León
+</h3>
